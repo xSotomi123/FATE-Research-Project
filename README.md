@@ -1,6 +1,6 @@
 # FATE Experiment Source Code
 
-Source code used in my research project to assess the integration complexity and usability of FATE.
+Source code used in my research project to assess the integration complexity and usability of [FATE](https://github.com/FederatedAI/FATE).
 
 ## Installation guide:
 
@@ -13,7 +13,7 @@ conda create -n fate_env python=3.10 -y
 conda activate fate_env
 ```
 
-When executing the code, we ran into some issues that required specific versions of PyTorch, NumPy, and ransformers:
+When executing the code, we ran into some issues that required specific versions of PyTorch, NumPy, and Transformers:
 
 ```
 pip install torch==2.1.0
