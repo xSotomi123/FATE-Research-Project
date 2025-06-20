@@ -4,7 +4,7 @@ Source code used in my research project to assess the integration complexity and
 
 ## Installation guide:
 
-First create a clean virtual environment:
+This framework was installed by following FATE's [quick start guide](https://fate.readthedocs.io/en/latest/2.0/fate/quick_start/). First create a clean virtual environment:
 
 ```
 conda create -n fate_env python=3.10 -y
