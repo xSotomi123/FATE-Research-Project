@@ -1,6 +1,6 @@
 # FATE Experiment Source Code
 
-Source code used in my research project to assess the integration complexity and usability of [FATE](https://github.com/FederatedAI/FATE).
+This is part of the 2025/Q4 [Research Project](https://github.com/TU-Delft-CSE/Research-Project) of [TU Delft](https://github.com/TU-Delft-CSE) and contains the source code used to assess the integration complexity and usability of [FATE](https://github.com/FederatedAI/FATE).
 
 ## Installation guide:
 
